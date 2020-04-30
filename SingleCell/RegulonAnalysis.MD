@@ -36,7 +36,7 @@
   *Publisher: bioRxiv | Group: Sreeram Kannan | Institute: UW*
 
 12. <2020> [Inferring causal gene regulatory networks from coupled single-cell expression dynamics using Scribe](https://www.sciencedirect.com/science/article/abs/pii/S2405471220300363)
-  *Publisehr: Cell Systems | Group: Sreeram Kannan | Institute: US*
+  *Publisehr: Cell Systems | Group: Sreeram Kannan | Institute: UW*
   
 
 
