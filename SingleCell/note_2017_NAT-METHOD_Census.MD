@@ -45,7 +45,7 @@
 
 | Variable | Symbol |
 | --- | --- |
-| Average reads per cDNA | *&gamma;* &Sigma |
+| Average reads per cDNA | *&gamma;* |
 
 5. **Read count**
   - cDNA: *Y<sub>ij</sub><sup>r</sup>* ~ multinomial (Relative cDNA abundance, Multinomial sampling of cDNA)
