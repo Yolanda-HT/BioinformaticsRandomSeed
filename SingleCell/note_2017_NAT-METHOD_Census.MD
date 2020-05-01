@@ -11,8 +11,8 @@
 | Development release | [Github](https://github.com/cole-trapnell-lab/monocle-release) |
 
 # Algorithm
-1. Cell lysate recovery:
- *Y<sub>ij</sub><sup>l</sup>* ≈ *&alpha;<sub>i</sub>Y<sub>ij</sub><sup>C</sup>*
+1. Cell lysate recovery: <br>
+ *Y<sub>ij</sub><sup>l</sup>* ≈ *&alpha;<sub>i</sub>Y<sub>ij</sub><sup>C</sup>* <br>
  *S<sub>ij</sub><sup>l</sup>* ≈ *&beta;<sub>i</sub>S<sub>ij</sub>*
  
 | Variable | Symbol |
