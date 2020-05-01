@@ -37,8 +37,8 @@
 | Spike in cDNA | *S<sup>d<sup>* |
 
 3. **Relative abundance** <br>
- - cDNA:  *Y<sub>ij</sub><sup>d</sup>* / &Sigma;<sub>j=1</sub><sup>n<sup> (*Y<sub>ij</sub><sup>d</sup>* +  *S<sub>ij</sub><sup>d</sup>* )
- - Spike in:  *S<sub>ij</sub><sup>d</sup>* / &Sigma;<sub>j=1</sub><sup>n<sup> (*Y<sub>ij</sub><sup>d</sup>* +  *S<sub>ij</sub><sup>d</sup>* ) 
+ - cDNA:  *Y<sub>ij</sub><sup>d</sup>* / &Sigma;<sub>j=1</sub><sup>n</sup> (*Y<sub>ij</sub><sup>d</sup>* +  *S<sub>ij</sub><sup>d</sup>* )
+ - Spike in:  *S<sub>ij</sub><sup>d</sup>* / &Sigma;<sub>j=1</sub><sup>n</sup> (*Y<sub>ij</sub><sup>d</sup>* +  *S<sub>ij</sub><sup>d</sup>* ) 
 
 4. **Multinomial sampling of R reads**
 *R<sub>i</sub>* = *&gamma;* &Sigma;<sub>j=1</sub><sup>n</sup> (*Y<sub>ij</sub><sup>d</sup>* +  *S<sub>ij</sub><sup>d</sup>*)
