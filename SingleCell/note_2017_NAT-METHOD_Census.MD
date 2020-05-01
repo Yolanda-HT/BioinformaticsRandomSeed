@@ -17,11 +17,17 @@
  
 | Variable | Symbol |
 | --- | --- |
-| Recovery rate of RNA |  *α* |
-| Recovery rate of spike-in | *β* |
+| Gene | *j* |
+| Cell | *i* |
+| Recovery rate of RNA |  *&alpha;* |
+| Recovery rate of spike-in | *&beta;* |
 | Total RNA | *Y<sup>C</sup>* |
 | Total Spike in | *S* |
 | Lysate RNA | *Y<sup>l</sup>* |
 | Lysate Spike in | *S<sup>l</sup>* |
+
+2. cDNA conversion: <br>
+ *Y<sub>ij</sub><sup>d</sup>* ≈ *Y<sub>ij</sub><sup>l</sup>* * *&theta;<sub>i</sub>* <br>
+ *S<sub>ij</sub><sup>d</sup>* ≈ *S<sub>ij</sub><sup>l</sup>* * *&theta;<sub>i</sub>* <br>
 
  h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
