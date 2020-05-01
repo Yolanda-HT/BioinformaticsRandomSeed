@@ -62,6 +62,7 @@ Probability to observe at least one copy of transcript: *&rho;* = 1 - (1 - *&the
 
 ...
 
+## Objective
 Use a assumed value of *&theta;* to convert TPM *X<sub>ij</sub><sup>l</sup>*  to real transcript number (*Y<sub>ij</sub><sup>l</sup>* ) with a Gaussian kernel density estimation to identify peak of distribution (with capturing probability distribution from 7.)
 
 
