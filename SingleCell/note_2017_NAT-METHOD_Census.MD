@@ -5,7 +5,7 @@
 # Information 
 | ~ | Description |
 | --- | --- |
-| Objective | Convert TPM to relative transcript counts without need spike-in standards or UMIs for differential analysis |
+| Objective | Convert TPM to relative transcript counts without spike-in standards or UMIs for differential analysis |
 | Environment | R |
 | Dependency | Monocole2 |
 | Development release | [Github](https://github.com/cole-trapnell-lab/monocle-release) |
