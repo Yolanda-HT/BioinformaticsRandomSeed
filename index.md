@@ -8,5 +8,5 @@
 
 ## Unsupervised Machine Learning
 ### Clustering
-- [Clustering Metrics](machineLearning/Unsupervised/Clustering)
+- [Clustering Metrics](machineLearning/Unsupervised/Clustering.md)
 
