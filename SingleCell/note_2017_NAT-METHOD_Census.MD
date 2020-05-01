@@ -29,5 +29,11 @@
 2. cDNA conversion: <br>
  *Y<sub>ij</sub><sup>d</sup>* ≈ *Y<sub>ij</sub><sup>l</sup>* * *&theta;<sub>i</sub>* <br>
  *S<sub>ij</sub><sup>d</sup>* ≈ *S<sub>ij</sub><sup>l</sup>* * *&theta;<sub>i</sub>* <br>
+ 
+| Variable | Symbol |
+| --- | --- |
+| Capture rate | *&theta;* |
+| Endo cDNA | *Y<sup>d</sup>* |
+| Spike in cDNA | *S<sup>d<sup>* |
 
- h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+
