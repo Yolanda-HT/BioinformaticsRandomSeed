@@ -11,7 +11,7 @@
 | Development release | [Github](https://github.com/cole-trapnell-lab/monocle-release) |
 
 # Algorithm
-1. **Cell lysate recovery** <br>
+## 1. **Cell lysate recovery** <br>
   - *Y<sub>ij</sub><sup>l</sup>* ≈ *&alpha;<sub>i</sub>Y<sub>ij</sub><sup>C</sup>* <br>
   - *S<sub>ij</sub><sup>l</sup>* ≈ *&beta;<sub>i</sub>S<sub>ij</sub>*
  
@@ -26,7 +26,7 @@
 | Lysate RNA | *Y<sup>l</sup>* |
 | Lysate Spike in | *S<sup>l</sup>* |
 
-2. **cDNA conversion** <br>
+## 2. **cDNA conversion** <br>
   - *Y<sub>ij</sub><sup>d</sup>* ≈ *Y<sub>ij</sub><sup>l</sup>* * *&theta;<sub>i</sub>* <br>
   - *S<sub>ij</sub><sup>d</sup>* ≈ *S<sub>ij</sub><sup>l</sup>* * *&theta;<sub>i</sub>* <br>
  
@@ -36,29 +36,29 @@
 | Endo cDNA | *Y<sup>d</sup>* |
 | Spike in cDNA | *S<sup>d<sup>* |
 
-3. **Relative abundance** <br>
+## 3. **Relative abundance** <br>
  - cDNA:  *Y<sub>ij</sub><sup>d</sup>* / &Sigma;<sub>j=1</sub><sup>n</sup> (*Y<sub>ij</sub><sup>d</sup>* +  *S<sub>ij</sub><sup>d</sup>* )
  - Spike in:  *S<sub>ij</sub><sup>d</sup>* / &Sigma;<sub>j=1</sub><sup>n</sup> (*Y<sub>ij</sub><sup>d</sup>* +  *S<sub>ij</sub><sup>d</sup>* ) 
 
-4. **Multinomial sampling of R reads**
+## 4. **Multinomial sampling of R reads**
  - *R<sub>i</sub>* = *&gamma;* &Sigma;<sub>j=1</sub><sup>n</sup> (*Y<sub>ij</sub><sup>d</sup>* +  *S<sub>ij</sub><sup>d</sup>*)
 
 | Variable | Symbol |
 | --- | --- |
 | Average reads per cDNA | *&gamma;* |
 
-5. **Read count**
+## 5. **Read count**
   - cDNA: *Y<sub>ij</sub><sup>r</sup>* ~ multinomial (Relative cDNA abundance, Multinomial sampling of cDNA)
   - Spike in: *Y<sub>ij</sub><sup>r</sup>* ~ multinomial (Relative spike in abundance, Multinomial sampling of spike in)
 
-6. **Simulator for sc-RNA-seq process**
+## 6. **Simulator for sc-RNA-seq process**
 
-7. **Estimate capture rate based on spike-in**
-Probability to observe at least one copy of transcript: *&rho;* = 1 - (1 - *&theta;*)<sup>S</sup>
+## 7. **Estimate capture rate based on spike-in**
+Probability to observe at least one copy of transcript: *&rho;* = 1 - (1 - *&theta;*)*<sup>S</sup>*
 
 | Variable | Symbol |
 | --- | --- |
-| Copy number | S |
+| Copy number | *S* |
 
 ...
 
