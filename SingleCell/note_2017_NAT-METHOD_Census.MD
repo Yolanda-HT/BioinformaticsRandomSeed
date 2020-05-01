@@ -12,9 +12,11 @@
 
 # Algorithm
 1. Cell lysate recovery:
+
 | Variable | Symbol |
 | --- | --- |
 | Recovery rate of RNA |  α |
 | Recovery rate of spike-in | β |
 | Total RNA | *Y<sup>C</sup>* |
+
  h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
