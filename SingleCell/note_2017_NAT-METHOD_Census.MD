@@ -12,7 +12,7 @@
 
 # Algorithm
 1. Cell lysate recovery:
- *Y<sub>ij<sub><sup>l</sup>* ≈ *&alpha<sub>i</sub>Y<sub>ij</sub><sup>C</sup>*
+ *Y<sub>ij<sub><sup> l</sup>* ≈ *&alpha;<sub>i</sub>Y<sub>ij</sub><sup>C</sup>*
 
 | Variable | Symbol |
 | --- | --- |
