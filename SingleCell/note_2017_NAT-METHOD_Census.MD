@@ -42,6 +42,7 @@
 
 4. **Multinomial sampling of R reads**
 *R<sub>i</sub>* = *&gamma;* &Sigma;<sub>j=1</sub><sup>n</sup> (*Y<sub>ij</sub><sup>d</sup>* +  *S<sub>ij</sub><sup>d</sup>*)
+
 | Variable | Symbol |
 | --- | --- |
 | Average reads per cDNA | *&gamma;* &Sigma |
@@ -49,3 +50,18 @@
 5. **Read count**
   - cDNA: *Y<sub>ij</sub><sup>r</sup>* ~ multinomial (Relative cDNA abundance, Multinomial sampling of cDNA)
   - Spike in: *Y<sub>ij</sub><sup>r</sup>* ~ multinomial (Relative spike in abundance, Multinomial sampling of spike in)
+
+6. **Simulator for sc-RNA-seq process**
+
+7. **Estimate capture rate based on spike-in**
+Probability to observe at least one copy of transcript: *&rho;* = 1 - (1 - *&theta;*)<sup>S</sup>
+
+| Variable | Symbol |
+| --- | --- |
+| Copy number | S |
+
+...
+
+Use a assumed value of *&theta;* to convert TPM *X<sub>ij</sub><sup>l</sup>*  to real transcript number (*Y<sub>ij</sub><sup>l</sup>* ) with a Gaussian kernel density estimation to identify peak of distribution (with capturing probability distribution from 7.)
+
+
