@@ -5,5 +5,5 @@
 2. [List of important publications in statistics](https://en.wikipedia.org/wiki/List_of_important_publications_in_statistics)
 
 
-
+## Random collection
 [Fonts for math](Statistics/Fonts_for_math.pdf)
