@@ -1,6 +1,7 @@
 # Bioinformatics Random Seed
 
 ## 0. Statistics
+- [Statistics](Statistics/Statistics.MD)
 
 ## 1. Unsupervised Machine Learning
 ### Clustering
