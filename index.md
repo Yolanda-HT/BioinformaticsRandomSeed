@@ -15,4 +15,7 @@
 *Single Cell Reading List*
 - [Census](SingleCell/note_2017_NAT-METHOD_Census.MD)
 
+*Resources*
+- [National Bioinformatics Infrastructure Sweden scRNAseq workshop](https://nbisweden.github.io/workshop-scRNAseq/)
+
 
