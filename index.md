@@ -10,6 +10,7 @@
 
 ## 2. Single Cell
 - [Quality Control and Adjustment](/SingleCell/QualityControl_Adjustment.MD)
+- [Denosing](/SingleCell/Denoising.MD)
 - [Regulon Analysis](SingleCell/RegulonAnalysis.MD)
 
 *Single Cell Reading List*
