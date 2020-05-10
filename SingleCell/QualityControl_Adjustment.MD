@@ -1,3 +1,5 @@
+**[Back to main page](https://yolanda-ht.github.io/BioinformaticsRandomSeed/)**
+
 # Quality Control and Adjustment
 > Last update: 05/01/2020 <br>
 > By: Huitian (Yolanda) Diao
