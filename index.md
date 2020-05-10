@@ -16,13 +16,16 @@
 
 
 ## 1. Unsupervised Machine Learning
-### Clustering
+### 1.1 Clustering
 - [Clustering Metrics](machineLearning/Unsupervised/Clustering.md)
 
 
 ## 2. Single Cell
+### 2.1 Pre processing
 - [Quality Control and Adjustment](/SingleCell/QualityControl_Adjustment.MD)
 - [Denosing](/SingleCell/Denoising.MD)
+
+### 2.2 Mechanistic analysis
 - [Regulon Analysis](SingleCell/RegulonAnalysis.MD)
 
 *Single Cell Reading List*
