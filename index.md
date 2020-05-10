@@ -28,10 +28,10 @@
 - [Regulon Analysis](SingleCell/RegulonAnalysis.MD)
 
 ### 3.3 Random Pebbles
-   *Single Cell Reading List*
+   *Single Cell Reading List* <br>
       - [Census](SingleCell/note_2017_NAT-METHOD_Census.MD)
 
-   *Resources*
+   *Resources* <br>
       - [National Bioinformatics Infrastructure Sweden scRNAseq workshop](https://nbisweden.github.io/workshop-scRNAseq/)
 
 
