@@ -37,4 +37,6 @@
    *Resources* <br>
       - [National Bioinformatics Infrastructure Sweden scRNAseq workshop](https://nbisweden.github.io/workshop-scRNAseq/)
 
+## Resources
+- [Statistics Resources](Statistics/StatisticsResources.MD)
 
