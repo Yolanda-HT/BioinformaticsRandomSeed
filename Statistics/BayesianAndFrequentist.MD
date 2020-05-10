@@ -10,7 +10,7 @@
   - The need to determine the prior probability distribution taking into account the available (prior) information
   - The sequential use of Bayes' formula
   - While for frequentist, a hypothesis is a proposition (True/ False), in Bayesian statistics the probability that can be assigned to a hypothesis can also be in a range from 0 to 1 if the truth value is uncertain
-3. Frequentist inference: draws conclusions from sample ata by emphasizing the frequency or proportion of the data. Used for statistical hypoehtsis testing and confidence intervals, etc..
+3. Frequentist inference: draws conclusions from sample data by emphasizing the frequency or proportion of the data. Used for statistical hypoehtsis testing and confidence intervals, etc..
   
 # References:
 1. [Wikipedia: Bayes theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
