@@ -10,4 +10,4 @@
 
 # References
 1. [Wikipedia: p-value](https://www.jgme.org/doi/abs/10.4300/JGME-D-12-00156.1)
-2. Sullivan, Gail M., and Richard Feinn. "Using effect size—or why the P value is not enough." *Journal of graduate medical education* 4.3 (2012): 279-282.
+2. Sullivan, Gail M., and Richard Feinn. ["Using effect size—or why the P value is not enough."](https://www.jgme.org/doi/pdf/10.4300/JGME-D-12-00156.1) *Journal of graduate medical education* 4.3 (2012): 279-282.
