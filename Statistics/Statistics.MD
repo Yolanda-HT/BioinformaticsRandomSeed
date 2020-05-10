@@ -1,7 +1,7 @@
 # Statistics
 
 ## Concepts in Statistics
-1. [p-value](Statistics/p-value.MD)
+1. [p-value](p-value.MD)
 
 ## Dive into the history of statistics!
 1. [The Most-Cited Statistical Papers](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.231.5042&rep=rep1&type=pdf)
@@ -9,4 +9,4 @@
 
 
 ## Random collection
-[Fonts for math](Statistics/Fonts_for_math.pdf)
+[Fonts for math](Fonts_for_math.pdf)
