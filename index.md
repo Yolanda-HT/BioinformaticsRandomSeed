@@ -10,7 +10,6 @@
 1. [The Most-Cited Statistical Papers](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.231.5042&rep=rep1&type=pdf)
 2. [List of important publications in statistics](https://en.wikipedia.org/wiki/List_of_important_publications_in_statistics)
 
-
 ### 0.3 Random Pebbles
 [Fonts for math](Statistics/Fonts_for_math.pdf)
 
@@ -28,10 +27,11 @@
 ### 2.2 Mechanistic analysis
 - [Regulon Analysis](SingleCell/RegulonAnalysis.MD)
 
-*Single Cell Reading List*
-- [Census](SingleCell/note_2017_NAT-METHOD_Census.MD)
+### 3.3 Random Pebbles
+   *Single Cell Reading List*
+      - [Census](SingleCell/note_2017_NAT-METHOD_Census.MD)
 
-*Resources*
-- [National Bioinformatics Infrastructure Sweden scRNAseq workshop](https://nbisweden.github.io/workshop-scRNAseq/)
+   *Resources*
+      - [National Bioinformatics Infrastructure Sweden scRNAseq workshop](https://nbisweden.github.io/workshop-scRNAseq/)
 
 
