@@ -1,6 +1,6 @@
 # Statistics
 
-## Concepts in Statistics
+## Concepts of Statistics
 1. Hypothesis testing
     * [p-value](p-value.MD)
 2. [Selecting appropriate probability distributions](Distributions.MD)
