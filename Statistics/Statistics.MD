@@ -2,7 +2,7 @@
 
 ## Concepts in Statistics
 1. Hypothesis testing
-* [p-value](p-value.MD)
+    * [p-value](p-value.MD)
 2. [Selecting appropriate probability distributions](Distributions.MD)
 
 ## Dive into the history of statistics!
