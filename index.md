@@ -7,7 +7,7 @@
 2. [Selecting appropriate probability distributions](Statistics/Distributions.MD)
 3. [Sampling and resampling](Statistics/SamplingAndResampling.MD)
 4. [Parametric v.s. nonparametric statistics](Statistics/ParametricAndNonparametric.MD)
-5. [Bayesian v.s. non-Bayesian statistics](Statistics/BayesianAndNonBayesian.MD)
+5. [Bayesian v.s. Frequentist statistics](Statistics/BayesianAndFrequentist.MD)
 
 ### 0.2 Dive into the history of statistics!
 1. [The Most-Cited Statistical Papers](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.231.5042&rep=rep1&type=pdf)
