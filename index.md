@@ -3,7 +3,7 @@
 # 0. Statistics
 ## 0.1 Concepts of Statistics
 1. Hypothesis testing
-    * [p-value](Statistics/p-value.MD)
+* [p-value](Statistics/p-value.MD)
 2. [Selecting appropriate probability distributions](Statistics/Distributions.MD)
 3. [Sampling and resampling](Statistics/SamplingAndResampling.MD)
 4. [Parametric v.s. nonparametric statistics](Statistics/ParametricAndNonparametric.MD)
