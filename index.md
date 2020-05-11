@@ -39,6 +39,11 @@
 
 ## 1.3 Neural Networks
 
+## 1.4 Machine Learning Random Pebbles
+**1.4.1 Machine Learning Reading List**
+   - [Top 20 recent papers](https://www.kdnuggets.com/2017/04/top-20-papers-machine-learning.html)
+   - [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+
 ### 1.3.1 Types of neural networks
    
 # 2. Single Cell
