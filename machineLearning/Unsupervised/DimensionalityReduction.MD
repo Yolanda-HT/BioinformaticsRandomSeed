@@ -27,7 +27,7 @@
 
 ## Benchmarks
 - [Scikit-learn Manifold Learning](https://scikit-learn.org/stable/modules/manifold.html)
-![Minifold Learning with 1000 points, 10 neighbors](https://scikit-learn.org/stable/auto_examples/manifold/plot_compare_methods.html)
+![Minifold Learning with 1000 points, 10 neighbors](https://scikit-learn.org/stable/_images/sphx_glr_plot_compare_methods_001.png)
 - [t-SNE v.s. PCA handwritten digits](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 ![PCA v.s. t-SNE](https://miro.medium.com/max/1400/1*izt3rfV_itenuD32DEr1Vw.png)
 - [Becht, Etienne, et al. "Dimensionality reduction for visualizing single-cell data using UMAP." Nature biotechnology 37.1 (2019): 38.](https://www.nature.com/articles/nbt.4314)
