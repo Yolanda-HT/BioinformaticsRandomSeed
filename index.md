@@ -2,7 +2,8 @@
 
 # Bioinformatics Random Seed
 
-# 0. Statistics
+# 0. Statistics <br>
+**[Terms of statistics](Statistics/StatisticsTerms.MD)**
 ## 0.1 Concepts of Statistics
 1. Hypothesis testing <br>
 **[p-value](Statistics/p-value.MD)**
