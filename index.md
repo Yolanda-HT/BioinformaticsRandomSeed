@@ -20,18 +20,18 @@
 
 ## 1.1 Unsupervised Machine Learning
 
-### 1.1.1 Clustering
+**1.1.1 Clustering**
    - [Different clustering methods](machineLearning/Unsupervised/DifferentClusteringMethods.MD)
    - [Clustering metrics](machineLearning/Unsupervised/ClusteringMetrics.md)
    
-### 1.1.2 Dimensionality Reduction
+**1.1.2 Dimensionality Reduction**
    - [Different dimensionality reduction techniques](machineLearning/Unsupervised/DimensionalityReduction.MD)
 
 ## 1.2 Supervised Machine Learning
 
-### 1.2.1 Regression
+**1.2.1 Regression**
 
-### 1.2.2 Classification
+**1.2.2 Classification**
 
 ## 1.3 Neural Networks
 
