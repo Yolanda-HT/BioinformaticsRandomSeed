@@ -24,7 +24,7 @@
 
 **1.1.1 Clustering**
    - [Types of clustering methods](machineLearning/Unsupervised/DifferentClusteringMethods.MD)
-   - [Clustering metrics](machineLearning/Unsupervised/ClusteringMetrics.md)
+   - [Clustering metrics](machineLearning/Unsupervised/ClusteringMetrics.MD)
    
 **1.1.2 Dimensionality Reduction**
    - [Different dimensionality reduction techniques](machineLearning/Unsupervised/DimensionalityReduction.MD)
