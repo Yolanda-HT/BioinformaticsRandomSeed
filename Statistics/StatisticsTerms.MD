@@ -1,7 +1,4 @@
 **[Back to main page](https://yolanda-ht.github.io/BioinformaticsRandomSeed/)**
 
 # Terms
-1. **[Statistical inference](https://en.wikipedia.org/wiki/Statistical_inference)**: <br>
-  Statistical inference is the process of using data analysis to deduce properties of an underlying distribution of probability.Inferential statistical analysis infers properties of a population, for example by testing hypotheses and deriving estimates. It is assumed that the observed data set is sampled from a larger population. Inferential statistics can be contrasted with descriptive statistics. Descriptive statistics is solely concerned with properties of the observed data, and it does not rest on the assumption that the data come from a larger population.
-2. **[Descriptive statistics](https://en.wikipedia.org/wiki/Descriptive_statistics)**: <br>
-  A descriptive statistic (in the count noun sense) is a summary statistic that quantitatively describes or summarizes features from a collection of information,while descriptive statistics (in the mass noun sense) is the process of using and analysing those statistics. Descriptive statistics is distinguished from inferential statistics (or inductive statistics) by its aim to summarize a sample, rather than use the data to learn about the population that the sample of data is thought to represent. 
+
