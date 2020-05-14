@@ -3,11 +3,11 @@
 # Causal Discovery from Heterogeneous/Nonstationary Data
 
 ## Intro
-1. Tranditional approached for causal network inference:
+### 1. Tranditional approached for causal network inference:
   - Constraint-based approaches: recover some information of the underlying causal structure based on conditional independence relationships of the variables (Spirtes et al., 1993)
   - Functional causal models: infer the causal structure by exploiting the fact that under certain conditions, the independence between the noise and the hypothetical cause only holds for the correct causal direction but not for the wrong direction (Shimizu et al., 2006; Hoyer et al., 2009; Zhang and Hyv¨arinen, 2009a,b).
 
-2. Challenge of causal network
+### 2. Challenge of causal network
   - Distribution shift: may occur across data sets, which may be obtained under different interventions or with different data collection conditions, or over time, as featured by nonstationary data.  It is believed that one of the basic properties of neural connections is their time-dependence (Havlicek et al., 2011).
 
 ## Proposed solution:
@@ -18,14 +18,14 @@ Constraint-based causal Discovery from heterogeneous/NOnstationary Data (CD-NOD)
 
 ## Solution details
 ### 1. Phase I: Changing Causal Module Detection and Causal Skeleton Estimation
-  1.1 Assumptions
+#### 1.1 Assumptions
   - Confounders, if any, can be written as functions of the domain index or smooth functions of time 2. It follows that in each domain or at each time, the values of these confounders are fixed.
   - The joint distribution ... is Markov and faithful to the augmented graph Gaug. In addition, there is no selection bias; i.e., the observed data are perfect random samples from the populations implied by the causal model.
-  1.2  Detection of Changing Modules and Recovery of Causal Skeleton
+#### 1.2  Detection of Changing Modules and Recovery of Causal Skeleton
 
 ### 2 Phase II: CD-NOD Phase II: Distribution Shifts Benefit Causal Direction Determination
-  2.1 Causal Direction Identification by Generalization of Invariance
-  2.2 Causal Direction Identification by Independently Changing Modules
+#### 2.1 Causal Direction Identification by Generalization of Invariance
+#### 2.2 Causal Direction Identification by Independently Changing Modules
 
 ### 3. Phase III: Nonstationary Driving Force Estimation
 
