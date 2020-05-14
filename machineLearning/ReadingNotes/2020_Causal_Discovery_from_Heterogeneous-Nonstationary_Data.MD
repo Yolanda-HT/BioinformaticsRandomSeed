@@ -17,16 +17,16 @@ Constraint-based causal Discovery from heterogeneous/NOnstationary Data (CD-NOD)
   - Problem 3: Extract from data a low-dimensional and potentially interpretable representation of changes, the so-called “driving force” of changing causal mechanisms
 
 ## Solution details
-1. Phase I: Changing Causal Module Detection and Causal Skeleton Estimation
+### 1. Phase I: Changing Causal Module Detection and Causal Skeleton Estimation
   1.1 Assumptions
   - Confounders, if any, can be written as functions of the domain index or smooth functions of time 2. It follows that in each domain or at each time, the values of these confounders are fixed.
   - The joint distribution ... is Markov and faithful to the augmented graph Gaug. In addition, there is no selection bias; i.e., the observed data are perfect random samples from the populations implied by the causal model.
   1.2  Detection of Changing Modules and Recovery of Causal Skeleton
 
-2 Phase II: CD-NOD Phase II: Distribution Shifts Benefit Causal Direction Determination
+### 2 Phase II: CD-NOD Phase II: Distribution Shifts Benefit Causal Direction Determination
   2.1 Causal Direction Identification by Generalization of Invariance
   2.2 Causal Direction Identification by Independently Changing Modules
 
-3. Phase III: Nonstationary Driving Force Estimation
+### 3. Phase III: Nonstationary Driving Force Estimation
 
   
