@@ -54,6 +54,7 @@
 ## 2.1 Pre Processing
    - [Quality Control and Adjustment](/SingleCell/QualityControl_Adjustment.MD)
    - [Denosing](/SingleCell/Denoising.MD)
+   - [BatchEffectRemoval](/SingleCell/Combat.MD)
 
 ## 2.2 Mechanistic Analysis
    - [Regulon Analysis](SingleCell/RegulonAnalysis.MD)
