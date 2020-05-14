@@ -45,7 +45,7 @@
 
 ## 1.4 Building Knowledge network
 ### 1.4.1 Causal Inference
-  - [Causal Inference Methodology](machineLearning/KnowledgeNetwork/CausalInferenceMethodology.MD])
+  - [Causal Inference Methodology](machineLearning/KnowledgeNetwork/CausalInferenceMethodology.MD)
     
 ### 1.4.2 Text mining
 
