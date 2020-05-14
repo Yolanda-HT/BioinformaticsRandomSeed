@@ -50,9 +50,12 @@
 ### 1.4.2 Text mining
 
 ## 1.5 Machine Learning Random Pebbles
-**1.5.1 Machine Learning Reading List**
+  *1.5.1 Machine Learning Reading List*
    - [Top 20 recent papers](https://www.kdnuggets.com/2017/04/top-20-papers-machine-learning.html)
    - [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+
+  *1.5.2 Machine Learning Notes*
+  - [Reading Notes](machineLearning/ReadingNotes)
 
 
    
