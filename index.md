@@ -43,8 +43,14 @@
 
 ### 1.3.1 Types of neural networks
 
-## 1.4 Machine Learning Random Pebbles
-**1.4.1 Machine Learning Reading List**
+## 1.4 Building Knowledge network
+### 1.4.1 Causal Inference
+  - [Causal Inference Methodology](machineLearning/Supervised/CausalInferenceMethodology.MD])
+    
+### 1.4.2 Text mining
+
+## 1.5 Machine Learning Random Pebbles
+**1.5.1 Machine Learning Reading List**
    - [Top 20 recent papers](https://www.kdnuggets.com/2017/04/top-20-papers-machine-learning.html)
    - [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 
