@@ -1,7 +1,15 @@
 **[Back to main page](https://yolanda-ht.github.io/BioinformaticsRandomSeed/)**
 
 # Dimensionality Reduction
-*Curse of dimensinality*
+*[Curse of dimensinality](https://en.wikipedia.org/wiki/Curse_of_dimensionality)*
+
+## Why dimensionality reduction?
+  - Visualization
+  - Remove multicolinearity
+  - Remove redundant features
+  - Deal with the curse of dimensionality
+  - Identify structure for supervised learning
+  - High-dimensional data
 
 ## Concept
 - Dimensionality reduction is a process of reducing the number of random varialbes under consideration by obtaining a set of principle variables.
