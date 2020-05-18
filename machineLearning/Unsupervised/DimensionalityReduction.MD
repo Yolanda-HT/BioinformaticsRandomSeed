@@ -15,6 +15,11 @@
 - Dimensionality reduction is a process of reducing the number of random varialbes under consideration by obtaining a set of principle variables.
 - Approaches can be divided into feature selection and feature extraction.
 
+## Types
+- Feature subsetting
+- Matrix decomposition
+- Manifold learning
+
 ## Common methods of dimensionality reduction
 1. Principal component analysis (PCA)
   - Linear dimensionality reduction
