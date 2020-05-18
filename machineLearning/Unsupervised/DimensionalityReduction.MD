@@ -48,3 +48,4 @@
 3. [Hinton, Geoffrey E., and Sam T. Roweis. "Stochastic neighbor embedding." Advances in neural information processing systems. 2003.](http://papers.nips.cc/paper/2276-stochastic-neighbor-embedding.pdf)
 4. [Maaten, Laurens van der, and Geoffrey Hinton. "Visualizing data using t-SNE." Journal of machine learning research 9.Nov (2008): 2579-2605.](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
 5. [McInnes, Leland, John Healy, and James Melville. "Umap: Uniform manifold approximation and projection for dimension reduction." arXiv preprint arXiv:1802.03426 (2018).](https://arxiv.org/abs/1802.03426)
+6. [I Goodfellow, Y Bengio, and A Courville. Deep Learning. MIT Press, 2016](http://www.deeplearningbook.org/)
