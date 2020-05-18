@@ -8,6 +8,7 @@ In a binary classification senerio, if 1) cost of false positive and false negat
     - Synthetic Minority Oversampling Technique (SMOTE)
     - Adaptive Synthetic (ADASYN)
 2. Sampling based approach
+
   2.1 Upsampling
   2.2 Downsampling
 
