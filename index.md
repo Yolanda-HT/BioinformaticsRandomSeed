@@ -1,7 +1,7 @@
 **[Home](https://yolanda-ht.github.io/BioinformaticsRandomSeed/)**
 
 # Bioinformatics Random Seed
-[Tell me what you want to know about bioinformatics / machine learning ->](https://github.com/Yolanda-HT/BioinformaticsRandomSeed/issues/new)
+**[-> Tell me what you want to know about Bioinformatics / Machine Learning ->](https://github.com/Yolanda-HT/BioinformaticsRandomSeed/issues/new)**
 
 # 0. Statistics <br>
    *[Terms of statistics](Statistics/StatisticsTerms.MD)*
