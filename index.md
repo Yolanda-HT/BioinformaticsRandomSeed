@@ -38,6 +38,7 @@
 **1.2.2 Classification**
    - [Types of classification methods](machineLearning/Supervised/DifferentClassificationMethods.MD)
    - [Classification metrics](machineLearning/Supervised/ClassificationMetrics.md)
+   - [Class imbalance](machineLearning/Supervised/ClassImbalance.MD)
 
 ## 1.3 Neural Networks
 
