@@ -41,22 +41,27 @@
    - [Classification metrics](machineLearning/Supervised/ClassificationMetrics.MD)
    - [Class imbalance](machineLearning/Supervised/ClassImbalance.MD)
 
-## 1.3 Neural Networks
+## 1.3 Semisupervised Learning
 
-### 1.3.1 Types of neural networks
+## 1.4 Reinforcement Learning
 
-## 1.4 Building Knowledge network
-### 1.4.1 Causal Inference
+## 1.5 Neural Networks
+
+### 1.5.1 Types of neural networks
+
+## 1.6 Building Knowledge network
+### 1.6.1 Causal Inference
   - [Causal Inference Methodology](machineLearning/KnowledgeNetwork/CausalInferenceMethodology.MD)
     
-### 1.4.2 Text mining
+### 1.6.2 Text mining
 
-## 1.5 Machine Learning Random Pebbles
-  *1.5.1 Machine Learning Reading List*
+
+## 1.7 Machine Learning Random Pebbles
+  *1.7.1 Machine Learning Reading List*
    - [Top 20 recent papers](https://www.kdnuggets.com/2017/04/top-20-papers-machine-learning.html)
    - [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 
-  *1.5.2 Machine Learning Notes*
+  *1.7.2 Machine Learning Notes*
   - [Reading Notes](machineLearning/ReadingNotes)
 
 
