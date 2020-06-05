@@ -10,7 +10,7 @@
 2. [Kallisto bustools](https://www.kallistobus.tools/tutorials)
 
 3. [Salmon alevin](https://combine-lab.github.io/alevin-tutorial/#blog)
-- [AlevinQC](https://csoneson.github.io/alevinQC/)
+  - [AlevinQC](https://csoneson.github.io/alevinQC/)
 
 ## Benchmark
 1. [Du, Yuheng, et al. "Evaluation of STAR and Kallisto on Single Cell RNA-Seq Data Alignment." *G3: Genes, Genomes, Genetics* 10.5 (2020): 1775-1783.](Du, Yuheng, et al. "Evaluation of STAR and Kallisto on Single Cell RNA-Seq Data Alignment." G3: Genes, Genomes, Genetics 10.5 (2020): 1775-1783.)
