@@ -13,5 +13,5 @@
   - [AlevinQC](https://csoneson.github.io/alevinQC/)
 
 ## Benchmark
-1. [Du, Yuheng, et al. "Evaluation of STAR and Kallisto on Single Cell RNA-Seq Data Alignment." *G3: Genes, Genomes, Genetics* 10.5 (2020): 1775-1783.](Du, Yuheng, et al. "Evaluation of STAR and Kallisto on Single Cell RNA-Seq Data Alignment." G3: Genes, Genomes, Genetics 10.5 (2020): 1775-1783.)
+1. [Du, Yuheng, et al. "Evaluation of STAR and Kallisto on Single Cell RNA-Seq Data Alignment." *G3: Genes, Genomes, Genetics* 10.5 (2020): 1775-1783.](https://www.g3journal.org/content/10/5/1775)
 2. [Srivastava, Avi, et al. "Alevin efficiently estimates accurate gene abundances from dscRNA-seq data." *Genome biology* 20.1 (2019): 65.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1670-y)
