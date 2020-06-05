@@ -34,5 +34,5 @@ BWT is a lossless data compression method, which works by rearranging character 
 ## References
 1. [Wikibooks - Next Generation Sequencing(NGS) / Alignment](https://en.wikibooks.org/wiki/Next_Generation_Sequencing_(NGS)/Alignment)
 2. [UC Davis Bioinformatics training](https://ucdavis-bioinformatics-training.github.io/2017-August-Variant-Analysis-Workshop/wednesday/Aligners.pdf)
-3. [https://link.springer.com/chapter/10.1007/978-3-319-54064-1_6#citeas](Bleidorn C. (2017) Alignment and Mapping. In: Phylogenomics. Springer, Cham)
+3. [Bleidorn C. (2017) Alignment and Mapping. In: Phylogenomics. Springer, Cham](https://link.springer.com/chapter/10.1007/978-3-319-54064-1_6#citeas)
 4. [Wikipedia - Burrows-Wheeler_transform](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform#BWT_in_bioinformatics)
