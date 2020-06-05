@@ -64,18 +64,22 @@
   *1.7.2 Machine Learning Notes*
   - [Reading Notes](machineLearning/ReadingNotes)
 
-
-   
-# 2. Single Cell
+# 2. NGS (Next Generation Sequencing)
 ## 2.1 Pre Processing
+  - Quality Control
+  - [Alignment](NGS/Alignment.MD)
+   
+# 3. Single Cell
+## 3.1 Pre Processing
    - [Quality Control and Adjustment](/SingleCell/QualityControl_Adjustment.MD)
    - [Denosing](/SingleCell/Denoising.MD)
    - [Batch Effect Removal](/SingleCell/Combat.MD)
+   - [Alignment](/SingleCell/SingleCellAlignment.MD)
 
-## 2.2 Mechanistic Analysis
+## 3.2 Mechanistic Analysis
    - [Regulon Analysis](SingleCell/RegulonAnalysis.MD)
 
-## 2.3 Single Cell Random Pebbles
+## 3.3 Single Cell Random Pebbles
    *Single Cell Reading List* <br>
       - [Census](SingleCell/note_2017_NAT-METHOD_Census.MD)
 
