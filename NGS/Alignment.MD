@@ -12,6 +12,8 @@ In NGS, alignment means to compare short reads with reference genome. It generat
 >Goal: Aquire abundance information of genetic features in short reads
 ### 1.2 Aligner v.s. Mapper
 Aligners try to find exact location of reads by base mapping, while mappers assign the reads to features without requirement of exact alignment. Mappers are usually faster that aligners.
+>Aligners: Bowtie, Tophat, STAR <br>
+>Mapper: Kallisto, Salmon
 ### 1.3 Global v.s. local
 Global alignment attemps to align the entire sequence, while local alignment trys to find regions with highest level of similarity between sequences. Local alignments are suitable for comaparing dissimilar sequences that has similar regions.
 
