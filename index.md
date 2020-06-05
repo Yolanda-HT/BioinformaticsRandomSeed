@@ -47,13 +47,13 @@
 
 ## 1.5 Neural Networks
 
-### 1.5.1 Types of neural networks
+**1.5.1 Types of neural networks**
 
 ## 1.6 Building Knowledge network
-### 1.6.1 Causal Inference
+**1.6.1 Causal Inference**
   - [Causal Inference Methodology](machineLearning/KnowledgeNetwork/CausalInferenceMethodology.MD)
     
-### 1.6.2 Text mining
+**1.6.2 Text mining**
 
 
 ## 1.7 Machine Learning Random Pebbles
