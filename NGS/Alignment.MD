@@ -17,10 +17,10 @@ Aligners try to find exact location of reads by base mapping, while mappers assi
 #### 1.3 Global v.s. local
 Global alignment attemps to align the entire sequence, while local alignment trys to find regions with highest level of similarity between sequences. Local alignments are suitable for comaparing dissimilar sequences that has similar regions.
 #### 1.4 Parameters
-1.4.1 Read clipping
-1.4.2 Splicing
-1.4.3 Insert size
-1.4.4 Inner distance
+  1.4.1 Read clipping <br>
+  1.4.2 Splicing <br>
+  1.4.3 Insert size <br>
+  1.4.4 Inner distance <br>
 
 ## 2. Algorithms
 #### 2.1 Burrows-Wheeler Transformation (BWT)
