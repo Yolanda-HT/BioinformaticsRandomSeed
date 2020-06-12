@@ -9,3 +9,5 @@
   *Publisher: PATTERNS | Group: Raul Rabadan | Institute: Columbia University*
 2. <2020>[Noise2Self: blind denoising by self-supervision](https://arxiv.org/abs/1901.11365) <br>
   *Publisher: arXiv | Group: Joshua Batson, Loic Royer | Institute: Chan Zuckerberg Biohub*
+3. <2018>[Recovering Gene Interactions from Single-Cell Data Using Data Diffusion](https://www.cell.com/cell/fulltext/S0092-8674(18)30724-4) <br>
+  *Publisher: Cell | Group: Smita Krishnaswamy | Institute: Yale University*
