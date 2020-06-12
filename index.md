@@ -78,7 +78,7 @@
 
 ## 3.2 Mechanistic Analysis
    - [Regulon Analysis](SingleCell/RegulonAnalysis.MD)
-   - [Single cell signature)(SingleCell/scSignature.MD)
+   - [Single cell signature](SingleCell/scSignature.MD)
 
 ## 3.3 Single Cell Random Pebbles
    *Single Cell Reading List* <br>
