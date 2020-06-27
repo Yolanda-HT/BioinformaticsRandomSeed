@@ -86,6 +86,7 @@
 
    *Resources* <br>
       - [National Bioinformatics Infrastructure Sweden scRNAseq workshop](https://nbisweden.github.io/workshop-scRNAseq/)
+      - [ChanZuckerberg scRNA python workshop](https://chanzuckerberg.github.io/scRNA-python-workshop/intro/about.html)
 
 # Resources
 - [Statistics Resources](Statistics/StatisticsResources.MD)
