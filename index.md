@@ -75,12 +75,15 @@
    - [Denosing](/SingleCell/Denoising.MD)
    - [Batch Effect Removal](/SingleCell/Combat.MD)
    - [Alignment](/SingleCell/SingleCellAlignment.MD)
+   
+## 3.2 Basic analysis
+   - [Differential analysis](/SingleCell/DifferentialAnalysis.MD)
 
-## 3.2 Mechanistic Analysis
+## 3.3 Mechanistic Analysis
    - [Regulon Analysis](SingleCell/RegulonAnalysis.MD)
    - [Single cell signature](SingleCell/scSignature.MD)
 
-## 3.3 Single Cell Random Pebbles
+## 3.4 Single Cell Random Pebbles
    *Single Cell Reading List* <br>
       - [Census](SingleCell/note_2017_NAT-METHOD_Census.MD)
 
