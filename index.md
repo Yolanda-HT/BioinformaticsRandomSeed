@@ -68,6 +68,8 @@
 ## 2.1 Pre Processing
   - Quality Control
   - [Alignment](NGS/Alignment.MD)
+## 2.3 Downstream process
+  - [Target Gene Selection](NGS/SelectTargetGenes.md)
    
 # 3. Single Cell
 ## 3.1 Pre Processing
