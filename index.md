@@ -20,6 +20,7 @@
 
 ## 0.3 Statistics Random Pebbles
 [Fonts for math](Statistics/Fonts_for_math.pdf)
+[Basic math symbols](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html)
 
 # 1. Machine Learning
 
