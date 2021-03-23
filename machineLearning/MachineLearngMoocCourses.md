@@ -16,33 +16,33 @@
 1.2. IBM AI Engineering Professional Certificate
 I recommend this specialization. You will get to practice Keras & PyTorch & TF。
 Pay by month (<$100). The faster you work through it the cheaper
-1.2.1 Machine Learning with Python (Achieved grade 100%)
-- Very good intro to common machine learning methods, with clear definitions and practices that are easy to work with
-- Include regression, classification, clustering, recommendation engines etc. For each part the algorithm and evaluation metrics are introduced。
-- No need for hard core math.  5-6 weeks of study, 3-6 hours per week (You can do it as a faster pace if you'd like)
+- 1.2.1 Machine Learning with Python (Achieved grade 100%)
+    - Very good intro to common machine learning methods, with clear definitions and practices that are easy to work with
+    - Include regression, classification, clustering, recommendation engines etc. For each part the algorithm and evaluation metrics are introduced。
+    - No need for hard core math.  5-6 weeks of study, 3-6 hours per week (You can do it as a faster pace if you'd like)
 
-1.2.2 Scalable Machine Learning on Big Data using Apache Spark (Achieved grade 90%)
-- I didn't particularlly like the teaching style of the teacher.
-- It is not really necessary for academia practices.
-- Approx. 7 hours to complete
+- 1.2.2 Scalable Machine Learning on Big Data using Apache Spark (Achieved grade 90%)
+    - I didn't particularlly like the teaching style of the teacher.
+    - It is not really necessary for academia practices.
+    - Approx. 7 hours to complete
 
-1.2.3Introduction to Deep Learning & Neural Networs with Keras (Achieved grade 100%)
-- This course is good for Keras practice.
-- Practice of NN (CNN, RNN), Autoencoder, Restricted Boltzmann Machines
-- Approx. 8 hours to complete
+- 1.2.3Introduction to Deep Learning & Neural Networs with Keras (Achieved grade 100%)
+    - This course is good for Keras practice.
+    - Practice of NN (CNN, RNN), Autoencoder, Restricted Boltzmann Machines
+    - Approx. 8 hours to complete
 
-1.2.4 Deep Neural Networks with PyTorch (Achieved grade 100%)
-- Similar with Keras course but a bit more time consuming. Build simple NN. There is peer review for project.
-- Approx. 31 hours to complete
+- 1.2.4 Deep Neural Networks with PyTorch (Achieved grade 100%)
+    - Similar with Keras course but a bit more time consuming. Build simple NN. There is peer review for project.
+    - Approx. 31 hours to complete
 
-1.2.5 Building Deep Learning Models with TensorFlow (Achieved grade 100%)
-- Similar with Keras course. Introduced basic concepts such as tensors. You will build some NNs with TF.
-- CNN, RNN, Autoencoder, LSTM, RBM. Using backprop and gradient descent optimizer。
-- Approx. 13 hours to complete
+- 1.2.5 Building Deep Learning Models with TensorFlow (Achieved grade 100%)
+    - Similar with Keras course. Introduced basic concepts such as tensors. You will build some NNs with TF.
+    - CNN, RNN, Autoencoder, LSTM, RBM. Using backprop and gradient descent optimizer。
+    - Approx. 13 hours to complete
 
-1.2.6 AI Capstone Project with Deep Learning (Achieved grade 100%)
-- Using Keras / PyTorch for image classifier. Comparing pretrained model performance
-- Approx. 16 hours to complete
+- 1.2.6 AI Capstone Project with Deep Learning (Achieved grade 100%)
+    - Using Keras / PyTorch for image classifier. Comparing pretrained model performance
+    - Approx. 16 hours to complete
             
 1.3. IBM AI Enterprise Workflow Specialization
 This Specialization is mainly for the industry, and there is a fictitious company and project setting in the class. 
@@ -50,27 +50,27 @@ However, the content introduction of each course is not particularly clear, and 
 I need to Enroll and pay monthly, but I can’t remember the specific amount (~$100?). So the faster you pass, the more cost-effective it is.
 There is a related certificate that can be tested (https://www.ibm.com/certify/exam?id=C1000-059), but I think it’s rather useless for me, so I didn’t take the test.
 
-1.3.1 Business priorities and Data Ingestion
-- Data workflow prelimiary steps including collection & ingestion (Focus on business intuition)
-- Approx. 8 hours to complete
+- 1.3.1 Business priorities and Data Ingestion
+    - Data workflow prelimiary steps including collection & ingestion (Focus on business intuition)
+    - Approx. 8 hours to complete
 
-1.3.2 Data Analysis and Hypothesis Testing
-- Concepts of EDA，data visualization, missing data, estimation and hypothesis testing
-- Approx. 11 hours to complete
+- 1.3.2 Data Analysis and Hypothesis Testing
+    - Concepts of EDA，data visualization, missing data, estimation and hypothesis testing
+    - Approx. 11 hours to complete
 
-1.3.3 Feature Engineering and Bias
-- Includes transformation, class imbalance, sampling technique, dimensionality reduction, outlier detection. With case studies
-- Approx. 12 hours to complete
+- 1.3.3 Feature Engineering and Bias
+    - Includes transformation, class imbalance, sampling technique, dimensionality reduction, outlier detection. With case studies
+    - Approx. 12 hours to complete
 
-1.3.4 Machine Learning, Visual Recognition and NLP
-- Includes model evaluation & performance metrics. Tree based methods (decision tree, random forest)
-- IBM Watson Nature Language Understanding Service 和 Watson Visual Recognition
-- Approx. 14 hours to complete
+- 1.3.4 Machine Learning, Visual Recognition and NLP
+    - Includes model evaluation & performance metrics. Tree based methods (decision tree, random forest)
+    - IBM Watson Nature Language Understanding Service 和 Watson Visual Recognition
+   - Approx. 14 hours to complete
 
-1.3.5 Enterprise Model Deployment
-- Using Apache Spark and IBM Watson Studio to deploy ML model
-- Application of collaborative filtering, content-based filtering and hyperparameter tuning
-- Approx. 9 hours to complete
+- 1.3.5 Enterprise Model Deployment
+    - Using Apache Spark and IBM Watson Studio to deploy ML model
+    - Application of collaborative filtering, content-based filtering and hyperparameter tuning
+    - Approx. 9 hours to complete
 
 
 ### 2. Udacity: Artificial Intelligence nanodegree
