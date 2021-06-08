@@ -9,8 +9,11 @@ A reference genome (also known as a reference assembly) is a digital nucleic aci
 
 - [The Genome Reference Consortium (GRC)](https://www.ncbi.nlm.nih.gov/grc) was founded in 2007 to improve the reference genome assemblies of human, mouse and zebrafish.
 - [ENSEMBL](http://useast.ensembl.org/index.html) is a scientific project at the European Bioinformatics Institute, which was launched in 1999 in response to the imminent completion of the Human Genome Project. Ensembl aims to provide a centralized resource for geneticists, molecular biologists and other researchers studying the genomes of our own species and other vertebrates and model organisms.
-- [UCSC Genome Browser](https://genome.ucsc.edu/cgi-bin/hgGateway)is an on-line, and downloadable, genome browser hosted by the University of California, Santa Cruz (UCSC). It is an interactive website offering access to genome sequence data from a variety of vertebrate and invertebrate species and major model organisms, integrated with a large collection of aligned annotations.
+- [UCSC Genome Browser](https://genome.ucsc.edu/cgi-bin/hgGateway) is an on-line, and downloadable, genome browser hosted by the University of California, Santa Cruz (UCSC). It is an interactive website offering access to genome sequence data from a variety of vertebrate and invertebrate species and major model organisms, integrated with a large collection of aligned annotations.
 
+### Genome versus Transcriptome
+Genome = all DNA
+Transciptome = all transcribed RNA
 
 ### Difference between Reference Genomes
 GENCODE uses the UCSC convention of prefixing chromosome names with "chr", e.g. "chr1" and "chrM", but Ensembl calls these "1" or "MT". At the time of writing (Ensembl 89), a few transcripts differ due to conversion issues. In addition, around 160 PAR genes are duplicated in GENCODE but only once in Ensembl. The differences affect fewer than 1% of the transcripts. Apart from gene annotation itself, the links to external databases differ [[2]](#2). 
