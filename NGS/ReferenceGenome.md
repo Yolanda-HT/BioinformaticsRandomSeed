@@ -12,7 +12,7 @@ A reference genome (also known as a reference assembly) is a digital nucleic aci
 - [UCSC Genome Browser](https://genome.ucsc.edu/cgi-bin/hgGateway) is an on-line, and downloadable, genome browser hosted by the University of California, Santa Cruz (UCSC). It is an interactive website offering access to genome sequence data from a variety of vertebrate and invertebrate species and major model organisms, integrated with a large collection of aligned annotations.
 
 ### Genome versus Transcriptome
-Genome = all DNA
+Genome = all DNA <br>
 Transciptome = all transcribed RNA
 
 ### Difference between Reference Genomes
