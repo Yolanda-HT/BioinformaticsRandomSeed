@@ -6,7 +6,7 @@
 
 ### Difference between 
 
-GENCODE uses the UCSC convention of prefixing chromosome names with "chr", e.g. "chr1" and "chrM", but Ensembl calls these "1" or "MT". At the time of writing (Ensembl 89), a few transcripts differ due to conversion issues. In addition, around 160 PAR genes are duplicated in GENCODE but only once in Ensembl. The differences affect fewer than 1% of the transcripts. Apart from gene annotation itself, the links to external databases differ [1]. 
+GENCODE uses the UCSC convention of prefixing chromosome names with "chr", e.g. "chr1" and "chrM", but Ensembl calls these "1" or "MT". At the time of writing (Ensembl 89), a few transcripts differ due to conversion issues. In addition, around 160 PAR genes are duplicated in GENCODE but only once in Ensembl. The differences affect fewer than 1% of the transcripts. Apart from gene annotation itself, the links to external databases differ [[1]](#1). 
 
 ### Genomice Orientation
 [Genomic orientation](http://www.imgt.org/IMGTindex/genomicOrientation.php)
